@@ -12,3 +12,6 @@
     width: 100px;
 }       
 
+.is-open {
+    background-color: MistyRose;
+}
